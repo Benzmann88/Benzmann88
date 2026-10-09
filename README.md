@@ -1,16 +1,28 @@
-## Hi there 👋
+# Benzmann
 
-<!--
-**Benzmann88/Benzmann88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Administrator · Microsoft Cloud Specialist · Builder of practical IT tools**
 
-Here are some ideas to get you started:
+I’ve worked in IT for over 20 years. Today, I work as a Systems Administrator and Microsoft Cloud Specialist, with a focus on identity, infrastructure, troubleshooting, and making complex systems easier to manage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building and self-hosting tools that solve problems I encounter in real-world IT work. My approach is straightforward: make the results useful, the interface clear, and the deployment maintainable.
+
+## Featured project: DarkMX
+
+**Check a domain. Find the problem.**
+
+[Explore DarkMX](https://darkmx.void.is) — my collection of diagnostic tools for DNS, email authentication, TLS, and web security. It brings practical checks together in one place and helps turn technical results into something you can act on.
+
+## Areas I work in
+
+- **Microsoft cloud and identity** — Microsoft 365, Entra ID, Active Directory, and SSO.
+- **Systems administration** — servers, networking, DNS, and operational troubleshooting.
+- **Self-hosted applications** — Docker-based services and tools I can run and maintain myself.
+- **Email and web security** — diagnostics that help identify configuration and delivery issues.
+
+## How I build
+
+I believe good tools should do more than report a pass or fail. They should help you understand what happened, why it matters, and what to check next.
+
+---
+
+*Building practical tools, one problem at a time.*
