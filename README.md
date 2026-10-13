@@ -10,7 +10,7 @@ I enjoy building and self-hosting tools that solve problems I encounter in real-
 
 **Check a domain. Find the problem.**
 
-[Explore DarkMX](https://darkmx.void.is) — my collection of diagnostic tools for DNS, email authentication, TLS, and web security. It brings practical checks together in one place and helps turn technical results into something you can act on.
+[Explore DarkMX](https://darkmx.is) — my collection of diagnostic tools for DNS, email authentication, TLS, and web security. It brings practical checks together in one place and helps turn technical results into something you can act on.
 
 ## Areas I work in
 
