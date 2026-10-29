@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/invalid-profile-banner.svg" alt="Benzmann profile banner with a pixel-art CRT face and amber terminal lettering" width="100%">
+	<img src="./assets/invalid-profile-banner.svg" alt="Benzmann profile banner with amber terminal lettering and a green online indicator" width="100%">
 	<p><strong>SYSTEMS ADMINISTRATOR / MICROSOFT CLOUD / PRACTICAL TOOLS</strong></p>
 </div>
 
