@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" shape-rendering="crispEdges" role="img" aria-labelledby="title description">
+  <title id="title">Benzmann - Invalid systems profile</title>
+  <desc id="description">A pixel-art CRT face beside an amber terminal identity panel on a charcoal background.</desc>
+  <defs>
+    <pattern id="pixels" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect x="1" y="1" width="11" height="11" rx="1" fill="#777a7a"/>
+    </pattern>
+    <mask id="screen-cutout">
+      <rect width="100%" height="100%" fill="white"/>
+      <rect x="82" y="62" width="264" height="178" rx="2" fill="black"/>
+    </mask>
+    <clipPath id="case-clip">
+      <rect x="42" y="28" width="342" height="276" rx="8"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="320" fill="#211e1d"/>
+  <path d="M0 292H1200" stroke="#3b3735" stroke-width="2"/>
+  <rect x="42" y="28" width="342" height="240" rx="8" fill="url(#pixels)" mask="url(#screen-cutout)"/>
+  <rect x="82" y="62" width="264" height="178" rx="2" fill="#211e1d"/>
+  <g fill="#ffbd24">
+    <rect x="145" y="105" width="13" height="13"/><rect x="160" y="105" width="13" height="13"/><rect x="175" y="105" width="13" height="13"/>
+    <rect x="145" y="120" width="13" height="13"/><rect x="175" y="120" width="13" height="13"/>
+    <rect x="236" y="105" width="13" height="13"/><rect x="251" y="105" width="13" height="13"/><rect x="266" y="105" width="13" height="13"/>
+    <rect x="236" y="120" width="13" height="13"/><rect x="266" y="120" width="13" height="13"/>
+    <rect x="127" y="166" width="13" height="13"/><rect x="142" y="181" width="13" height="13"/>
+    <rect x="159" y="192" width="13" height="13"/><rect x="177" y="201" width="13" height="13"/>
+    <rect x="197" y="205" width="13" height="13"/><rect x="215" y="205" width="13" height="13"/>
+    <rect x="233" y="203" width="13" height="13"/><rect x="251" y="196" width="13" height="13"/>
+    <rect x="268" y="185" width="13" height="13"/><rect x="283" y="170" width="13" height="13"/>
+  </g>
+  <rect x="321" y="225" width="12" height="12" fill="#7bc957"/>
+  <g clip-path="url(#case-clip)">
+    <rect x="42" y="276" width="342" height="28" fill="url(#pixels)"/>
+    <rect x="112" y="287" width="90" height="8" fill="#211e1d"/>
+    <rect x="342" y="286" width="12" height="12" fill="#7bc957"/>
+  </g>
+  <path d="M444 56V264" stroke="#4b4643" stroke-width="2"/>
+  <text x="486" y="89" fill="#a9a19c" font-family="monospace" font-size="17">INVALID SYSTEMS // PERSONAL NODE</text>
+  <text x="482" y="164" fill="#ffbd24" font-family="monospace" font-size="64" font-weight="700">BENZMANN</text>
+  <text x="486" y="204" fill="#e4ded9" font-family="monospace" font-size="21">SYSTEMS ADMINISTRATOR</text>
+  <text x="486" y="238" fill="#a9a19c" font-family="monospace" font-size="16">MICROSOFT CLOUD / IDENTITY / SELF-HOSTED TOOLS</text>
+  <rect x="486" y="266" width="10" height="10" fill="#7bc957"/>
+  <text x="506" y="276" fill="#7bc957" font-family="monospace" font-size="13">ONLINE // BUILDING PRACTICAL SYSTEMS</text>
+</svg>

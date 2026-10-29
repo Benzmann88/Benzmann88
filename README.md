@@ -1,28 +1,31 @@
-# Benzmann
+<div align="center">
+	<img src="./assets/invalid-profile-banner.svg" alt="Benzmann profile banner with a pixel-art CRT face and amber terminal lettering" width="100%">
+	<p><strong>SYSTEMS ADMINISTRATOR / MICROSOFT CLOUD / PRACTICAL TOOLS</strong></p>
+</div>
 
-**Systems Administrator · Microsoft Cloud Specialist · Builder of practical IT tools**
+## // SYSTEM PROFILE
 
-I’ve worked in IT for over 20 years. Today, I work as a Systems Administrator and Microsoft Cloud Specialist, with a focus on identity, infrastructure, troubleshooting, and making complex systems easier to manage.
+IT professional with 20+ years of experience across systems administration, Microsoft cloud, identity, and infrastructure. I like making complex systems easier to operate and building tools that solve problems I meet in real-world work.
 
-I enjoy building and self-hosting tools that solve problems I encounter in real-world IT work. My approach is straightforward: make the results useful, the interface clear, and the deployment maintainable.
+## // FEATURED PROJECT
 
-## Featured project: DarkMX
+### [DarkMX](https://darkmx.is) - Domain diagnostics
 
 **Check a domain. Find the problem.**
 
-[Explore DarkMX](https://darkmx.is) — my collection of diagnostic tools for DNS, email authentication, TLS, and web security. It brings practical checks together in one place and helps turn technical results into something you can act on.
+DNS, email authentication, TLS, and web security checks in one place, with results designed to explain what happened and what to do next.
 
-## Areas I work in
+## // OPERATIONAL FOCUS
 
-- **Microsoft cloud and identity** — Microsoft 365, Entra ID, Active Directory, and SSO.
-- **Systems administration** — servers, networking, DNS, and operational troubleshooting.
-- **Self-hosted applications** — Docker-based services and tools I can run and maintain myself.
-- **Email and web security** — diagnostics that help identify configuration and delivery issues.
+- **Cloud and identity:** Microsoft 365, Entra ID, Active Directory, and SSO
+- **Infrastructure:** servers, networking, DNS, and troubleshooting
+- **Self-hosted systems:** Docker services and maintainable deployments
+- **Email and web security:** practical diagnostics for configuration and delivery
 
-## How I build
+## // BUILD PRINCIPLE
 
-I believe good tools should do more than report a pass or fail. They should help you understand what happened, why it matters, and what to check next.
+Useful tools should do more than report pass or fail. They should make the result clear, explain why it matters, and point to the next check.
 
 ---
 
-*Building practical tools, one problem at a time.*
+`SIGNAL: BUILDING PRACTICAL TOOLS, ONE PROBLEM AT A TIME.`
