@@ -28,4 +28,4 @@ Useful tools should do more than report pass or fail. They should make the resul
 
 ---
 
-`SIGNAL: BUILDING PRACTICAL TOOLS, ONE PROBLEM AT A TIME.`
+
